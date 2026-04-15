@@ -1,7 +1,7 @@
 # Vendor Risk Review Automation
 
 ## Purpose
-This project demonstrates a simple approach to automating vendor risk review processes by identifying potential issues in SOC 2 reports.
+This automation provides real-time visibility into vendor risk by identifying potential control deficiencies in security reports prior to onboarding.
 
 ## GRC Workflow Integration
 
