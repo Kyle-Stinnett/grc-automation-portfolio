@@ -36,3 +36,9 @@ Findings: ["deficiency"]
 
 - Keyword matching may not capture all nuanced findings  
 - Requires human validation for final assessment  
+
+## Risk Considerations
+
+- False positives may occur due to simple keyword matching  
+- Over-reliance on automation could miss contextual findings  
+- Requires periodic tuning of keyword sets
