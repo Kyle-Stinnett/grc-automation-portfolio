@@ -42,3 +42,12 @@ Findings: ["deficiency"]
 - False positives may occur due to simple keyword matching  
 - Over-reliance on automation could miss contextual findings  
 - Requires periodic tuning of keyword sets
+
+## Risk Mitigation Value
+
+This automation supports vendor risk management by ensuring that security reports are reviewed consistently and that potential control deficiencies are identified early.
+
+By introducing automated pre-screening:
+- Vendors without sufficient controls can be flagged before onboarding  
+- Review time is reduced, improving scalability of vendor assessments  
+- Risk of onboarding non-compliant vendors is minimized  
